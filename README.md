@@ -1,104 +1,107 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%" />
+# 🚀 OSAMA AHMED AL-DANWA
+### **Senior Flutter Developer | UI/UX Enthusiast**
 
-# 🚀 OSAMA AHMED MOHAMMED AL-DANWA
-### **Senior Flutter Developer | Software Engineer**
+<img src="https://github-readme-stats.vercel.app/api?username=osamaaldnoh&show_icons=true&theme=radical&rank_icon=github&display_format=white" width="60%" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-aldnoh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=flutter&logoColor=white)](mailto:osa.aldnoh@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=osamaaldnoh&style=flat-square&color=orange&label=PROFILE+VIEWS)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osa.aldnoh@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/osamaaldnoh?style=for-the-badge&color=orange)
 
 </div>
 
 ---
 
-## 🧠 About Me | نبذة عني
+## 👨‍💻 About Me | نبذة عني
 
-**EN 🇺🇸** I am a specialized **Flutter Developer** with 4+ years of experience building scalable, high-performance mobile applications. My expertise lies in **Clean Architecture** and **Advanced State Management (Bloc, GetX)**. I am passionate about writing testable code, optimizing app performance, and delivering pixel-perfect UI/UX.
+**EN 🇺🇸** A results-driven **Senior Flutter Developer** with 4+ years of experience. I specialize in building high-performance applications using **Clean Architecture** and **Advanced State Management**. My goal is to bridge the gap between complex backend logic and beautiful, intuitive UI.
 
-**AR 🇸🇦** أنا مطور تطبيقات **Flutter** متخصص بخبرة تزيد عن 4 سنوات في بناء تطبيقات قابلة للتوسع وعالية الأداء. خبير في تطبيق **Clean Architecture** وإدارة الحالة المتقدمة (**Bloc, GetX**). أركز على كتابة كود قابل للاختبار، تحسين الأداء، وتقديم واجهات مستخدم احترافية بدقة متناهية.
+**AR 🇸🇦** مطور تطبيقات **Flutter** خبير (Senior) بخبرة تزيد عن 4 سنوات. متخصص في بناء تطبيقات عالية الأداء باستخدام **Clean Architecture**. شغفي هو دمج المنطق البرمجي المعقد مع واجهات مستخدم جذابة وسهلة الاستخدام.
 
 ---
 
-## 🛠 Tech Stack | التقنيات الهندسية
+## 🛠 Tech Stack | المهارات التقنية
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><strong>Core Mobile</strong></td>
-    <td align="center" width="25%"><strong>Architecture</strong></td>
-    <td align="center" width="25%"><strong>Backend/Data</strong></td>
-    <td align="center" width="25%"><strong>Tools/UI</strong></td>
+    <td width="50%">
+      <h3>📱 Mobile & Frontend</h3>
+      <ul>
+        <li><b>Flutter / Dart</b> (Expert)</li>
+        <li>Responsive & Adaptive Design</li>
+        <li>Custom Animations</li>
+        <li>Android (Kotlin) & iOS (Swift) basics</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🏗 Architecture & State</h3>
+      <ul>
+        <li><b>Clean Architecture</b> (Data, Domain, Presentation)</li>
+        <li><b>State Management:</b> Bloc, GetX, Provider</li>
+        <li>MVVM / MVC / Repository Patterns</li>
+        <li>Unit & Integration Testing</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>
-      • Flutter (Android/iOS)<br>
-      • Dart Expert<br>
-      • Responsive Design<br>
-      • GetX & Bloc Pattern
+      <h3>💾 Data & Backend</h3>
+      <ul>
+        <li>Firebase (Auth, Firestore, Messaging)</li>
+        <li>RESTful APIs & WebSockets</li>
+        <li><b>Offline-First:</b> Hive, Drift, SQLite</li>
+        <li>Supabase Integration</li>
+      </ul>
     </td>
     <td>
-      • Clean Architecture<br>
-      • MVVM / MVC<br>
-      • Repository Pattern<br>
-      • Dependency Injection
-    </td>
-    <td>
-      • Firebase / Supabase<br>
-      • RESTful APIs Integration<br>
-      • SQLite & Drift<br>
-      • Hive (Offline-First)
-    </td>
-    <td>
-      • Git & GitHub Actions<br>
-      • CI/CD Pipelines<br>
-      • Figma to Code<br>
-      • Postman & Unit Testing
+      <h3>⚙️ Tools & DevOps</h3>
+      <ul>
+        <li>Git / GitHub / GitLab</li>
+        <li><b>CI/CD:</b> GitHub Actions</li>
+        <li>Figma / Adobe XD to Code</li>
+        <li>Postman & API Documentation</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 👨‍💻 My Coding Philosophy
+## 📂 Featured Projects | أبرز المشاريع
+
+<div align="center">
+
+| 🛒 E-commerce Store | 📦 Inventory ERP | 📸 AI Body Measurement | 💰 Finance Ledger |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn-icons-png.flaticon.com/512/3081/3081840.png" width="50"> | <img src="https://cdn-icons-png.flaticon.com/512/2897/2897868.png" width="50"> | <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="50"> | <img src="https://cdn-icons-png.flaticon.com/512/2845/2845812.png" width="50"> |
+| **Firebase & GetX** | **Offline Sync & Drift** | **Image Processing** | **High Precision UI** |
+
+</div>
+
+---
+
+## 📊 My GitHub Stats | إحصائيات البرمجة
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaaldnoh&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaaldnoh&theme=radical&hide_border=true" width="45%" />
+</div>
+
+---
+
+## ⚡ Quick Snippet
 
 ```dart
-class OsamaAhmed extends SeniorFlutterDeveloper {
-  final List<String> principles = [
-    'Clean Architecture over Quick Fixes',
-    'Pixel-Perfect UI implementation',
-    'Offline-First Functionality',
-    'Testable & Scalable Codebase'
-  ];
+class DevEnvironment {
+  final String developer = "Osama Ahmed";
+  final List<String> focus = ["Clean Code", "Performance", "UX"];
 
-  void solveComplexProblems() {
-    // Logic, Creativity, and a lot of Coffee ☕
-    analyze();
-    architect();
-    code();
-    optimize();
-  }
+  bool isReadyToWork() => true;
 }
-📊 GitHub Statistics | إحصائيات البرمجة
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dosamaaldnoh%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" width="48%" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dosamaaldnoh%26layout%3Dcompact%26theme%3Dradical" width="38%" /> </div>
-
-📌 Featured Projects | أبرز المشاريع
-🛒 E-Commerce Pro: Full-cycle store with Firebase and GetX.
-
-📊 Inventory ERP: Business management with Hive offline synchronization.
-
-📸 AI Body Measurement: Advanced image processing for physical dimensions.
-
-💰 Accounting Ledger: High-precision financial tool for debt management.
-
-📫 Contact Me | تواصل معي
-LinkedIn: osama-aldnoh
-
-Email: osa.aldnoh@gmail.com
-
-GitHub: @osamaaldnoh
-
-<div align="center"> <b>⚡ Fun Fact:</b> <i>"Clean Architecture saves more time than it costs"</i> ☕
+<div align="center"> <b>💡 Fun Fact:</b> "Clean Architecture saves more time than it costs" ☕
 
 
-<b>⚡ حقيقة:</b> <i>"الكود النظيف يوفر وقتًا أكثر مما يستهلك"</i> 😄 </div>
+<b>📫 Let's Connect!</b> <a href="https://www.google.com/url?sa=E&source=gmail&q=https://www.linkedin.com/in/osama-aldnoh">LinkedIn</a> • <a href="mailto:osa.aldnoh@gmail.com">Email</a> • <a href="https://github.com/osamaaldnoh">GitHub</a> </div>
