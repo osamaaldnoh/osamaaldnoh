@@ -1,126 +1,140 @@
 <h1 align="center">Osama Ahmed Mohammed Aldanwa</h1>
 
 <h3 align="center">
-🚀 Mobile Systems Engineer (Flutter) | Scalable Architecture | Production-Grade Apps
+🚀 Mobile Systems Engineer (Flutter) | Scalable Architecture | Performance & Systems Design
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Systems+Engineer;Flutter+Architecture+Specialist;Building+Scalable+Production+Apps;Performance+Driven+Engineering&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Scalable+Mobile+Systems;Flutter+Architecture+Specialist;Production-Grade+Mobile+Engineering;Performance+Driven+Development&center=true&width=700&height=50">
 </p>
 
 ---
 
-## 💼 PROFESSIONAL SUMMARY
+## 🧠 ENGINEERING IDENTITY (FAANG POSITIONING)
 
-I am a **Mobile Systems Engineer specializing in Flutter**, focused on building **scalable, maintainable, and production-ready mobile systems**.
+I am a **Mobile Systems Engineer specializing in Flutter**, focused on building:
+
+> **Scalable • Maintainable • High-Performance Mobile Systems**
 
 I don’t build apps.
 
-I design **engineering systems that scale, evolve, and perform under real-world load**.
+I design **systems that operate at scale, survive production, and evolve over time.**
 
 ---
 
-## 🎯 ENGINEERING POSITIONING (WHY HIRE ME)
+## 🎯 WHY COMPANIES HIRE ME
 
-✔ I design **architecture-first mobile systems**  
-✔ I optimize for **performance, scalability, and maintainability**  
-✔ I build apps that are **production-ready, not prototype-level**  
-✔ I think in **data flow, system design, and modular structure**  
-✔ I reduce **technical debt from day one**
+✔ I think in **system architecture, not UI screens**  
+✔ I design for **scale from day one (not refactoring later)**  
+✔ I optimize for **performance as a core system constraint**  
+✔ I reduce **technical debt through architecture decisions**  
+✔ I build systems that are **production-ready by design**
 
 ---
 
-## 🏗 SYSTEMS ENGINEERING EXPERTISE
+## 🏗 CORE SYSTEM DESIGN EXPERTISE
 
-### 📦 Architecture Design
+### 📦 Architecture Engineering
 - Clean Architecture (Data / Domain / Presentation)
-- Feature-based modular system design
-- Scalable project structuring for large codebases
+- Feature-based modular systems
+- Enterprise-grade Flutter structure design
 
 ### ⚡ Performance Engineering
-- Eliminating unnecessary rebuilds in Flutter
-- Optimized rendering for large datasets
-- Memory-efficient UI systems
+- Eliminating unnecessary widget rebuilds
+- Memory-efficient UI rendering strategies
+- Large dataset optimization in Flutter apps
 
 ### 🔁 Data & State Systems
-- API-driven architecture design
-- Reactive state management flows
-- Offline-first architecture patterns
+- API-driven system design
+- Reactive state management architecture
+- Offline-first system thinking
 
 ---
 
-## 🛠 TECHNICAL STACK
+## 🧩 ENGINEERING TOOLBOX
 
 ### 📱 Mobile Engineering
 - Flutter (Advanced / Production Level)
-- Dart (OOP, Async, Streams, Isolates)
+- Dart (OOP, Async Programming, Streams, Isolates)
 
 ### 🌐 Backend Integration
-- RESTful APIs
-- PHP APIs
+- REST APIs
+- PHP-based backend systems
 
-### 🗄 Data Layer
+### 🗄 Data Engineering
 - SQLite (Drift ORM)
 - MySQL
 
-### 🎨 UI Engineering
-- Scalable UI systems
-- Responsive design architecture
+### 🎨 UI SYSTEMS
+- Responsive architecture-based UI design
 - UX performance optimization
+- Scalable design systems
 
 ---
 
-## 💰 FLAGSHIP PROJECT (PRODUCTION SYSTEM)
+## 💰 FLAGSHIP SYSTEM
 
 ### FinEase — Financial Systems Platform
 
-A **scalable financial management system** designed for real-world business operations.
+A **production-grade financial system** designed for real-world scalability.
 
-#### 🧩 Architecture Highlights
-- Modular feature-based architecture
+#### 🧩 Architecture Level
+- Fully modular system architecture
 - Strict separation of concerns
-- Fully scalable system design
+- Scalable multi-feature system design
 
-#### ⚡ Performance Engineering
-- Optimized large dataset rendering
-- Minimal rebuild strategy in Flutter
-- Efficient state management system
+#### ⚡ Performance Layer
+- Optimized rendering for high-volume data
+- Minimal rebuild state management strategy
+- Efficient UI update pipeline
 
 #### 📊 System Capabilities
 - Dynamic financial dashboards
-- Transaction processing workflows
+- Transaction workflow engine
 - Real-time analytics structure
 
-#### 🔮 Roadmap
-- AI-powered financial insights
+#### 🔮 Future System Evolution
+- AI-powered financial intelligence layer
 - Banking API integrations
-- Enterprise multi-tenant system
+- Enterprise multi-tenant scaling
+
+---
+
+## 📊 ENGINEERING IMPACT METRICS (FRAMEWORK)
+
+> Focus: How I think about engineering output
+
+- System scalability: **High**
+- Code maintainability: **Production-focused**
+- Architecture stability: **Long-term oriented**
+- Performance efficiency: **Optimized by design**
+- Technical debt: **Minimized early**
 
 ---
 
 ## 🧠 ENGINEERING PRINCIPLES
 
-> “I don’t write code — I engineer systems that survive scale.”
+> “Great software is not written — it is architected for survival.”
 
-- Scalability over speed
-- Maintainability over shortcuts
-- Architecture over features
-- Performance as a design constraint
-- Systems thinking over UI thinking
+- Scalability > Speed
+- Architecture > Features
+- Maintainability > Shortcuts
+- Systems thinking > UI thinking
+- Performance is a design decision, not an optimization step
 
 ---
 
-## 🔍 HOW I BUILD SYSTEMS
+## 🔍 HOW I ENGINEER SYSTEMS
 
-1. Define system boundaries & constraints  
+1. Analyze system constraints & real-world usage  
 2. Design scalable architecture layers  
-3. Build clean modular structure  
+3. Build modular feature systems  
 4. Implement reactive data flow  
-5. Optimize based on real-world usage patterns  
+5. Optimize based on production behavior  
 
 ---
 
-## 📈 GITHUB METRICS
+## 📈 GITHUB PERFORMANCE
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamaaldnoh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -130,9 +144,13 @@ A **scalable financial management system** designed for real-world business oper
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaaldnoh&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaaldnoh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 📬 CONTACT & PROFESSIONAL LINKS
+## 📬 HIRING CONTACT
 
 - 📞 Phone: +967 774 953 935  
 - 💼 LinkedIn: https://www.linkedin.com/in/osama-al-danwh-3814b4297  
@@ -140,14 +158,17 @@ A **scalable financial management system** designed for real-world business oper
 
 ---
 
-## ⚡ HIRING VALUE STATEMENT
+## 🚀 HIRING STATUS
 
-I am actively seeking opportunities in:
+Actively open to:
 
-- Mobile Systems Engineering (Flutter)
-- Scalable Application Architecture Roles
-- Production-Level Mobile Development Teams
+- Mobile Systems Engineering Roles  
+- Flutter Architecture Positions  
+- Scalable Product Engineering Teams  
+- High-Performance Mobile Systems Development  
 
 ---
 
-> “The difference between a developer and an engineer is how they think about scale.”
+## ⚡ FINAL STATEMENT
+
+> “I don’t build apps — I engineer mobile systems designed for scale, performance, and real-world production environments.”
